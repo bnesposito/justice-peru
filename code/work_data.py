@@ -7,7 +7,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from gensim.models.ldamodel import LdaModel
 from nltk.stem import SnowballStemmer
 from six import iteritems
-from pattern.es import parsetree
+#from pattern.es import parsetree
 import gensim
 import string
 import io
@@ -63,11 +63,11 @@ def clean_data(doc):
     exclude = set(string.punctuation)
     exclude.update(['«', '¿', '»', '¡', '…', '“', '—', '_', '‘', '–', '’'])
     #lemma = WordNetLemmatizer()
-    #stemmer = SnowballStemmer('spanish')
-    parsetree("buena", lemmata=True)
+    stemmer = SnowballStemmer('spanish')
+    #parsetree("buena", lemmata=True)
     stop_free = ' '.join([i for i in doc.lower().split() if i not in stop])
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
-    normalized = ' '.join(parsetree(word, lemmata=True) for word in punc_free.split())
+    normalized = ' '.join(stemmer.stem(word) for word in punc_free.split())
     return normalized
 
 
@@ -82,7 +82,7 @@ def list_to_matrix(doc):
     return doc_term_matrix, dictionary
 
 
-def lda_model(dictionary, matrix):
-    ldamodel = LdaModel(matrix, num_topics=3, id2word=dictionary, passes=50)
+def lda_model(dictionary, matrix, n_topics):
+    ldamodel = LdaModel(matrix, num_topics=n_topics, id2word=dictionary, passes=50)
     return ldamodel
 

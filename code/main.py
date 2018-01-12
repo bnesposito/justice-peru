@@ -40,11 +40,10 @@ def main():
     mat_docs, dictionary = work_data.list_to_matrix(clean_docs)
     print(mat_docs[0])
     pprint.pprint(dictionary.token2id)
-    hi
 
-    lda_model = work_data.lda_model(dictionary, mat_docs)
+    lda_model = work_data.lda_model(dictionary, mat_docs, 10)
     print(lda_model)
-    pprint.pprint(lda_model.print_topics(num_topics=3, num_words=10))
+    pprint.pprint(lda_model.print_topics(num_topics=10, num_words=10))
 
     config.time_taken_display(t0)
 
