@@ -1,0 +1,90 @@
+index,name,number,start,sentiment
+1,"Rojas Valdez, Liz",1,"Entonces, como era ya",MIEDO
+2,"Rojas Valdez, Liz",2,"No sé cómo,",VULNERABILIDAD
+3,"Rojas Valdez, Liz",3,"Entonces, yo",VULNERABILIDAD
+4,"Rojas Valdez, Liz",4,Yo no podía hacer,SUPERACIÓN
+5,"Rojas Valdez, Liz",5,Al día siguiente,SUPERACIÓN
+6,"Rojas Valdez, Liz",6,Era de la señora,MIEDO
+7,"Rojas Valdez, Liz",7,Nosotros… yo a,INDIGNACIÓN 
+8,"Rojas Valdez, Liz",9,Después poco ,SUPERACIÓN
+9,"Rojas Valdez, Liz",10,Después de eso,TRISTEZA
+10,"Rojas Valdez, Liz",11,Ahora yo no puedo ni dormir,VULNERABILIDAD
+11,"Rojas Valdez, Liz",12,Domingos era familiar.,VULNERABILIDAD
+12,"Rojas Valdez, Liz",13,Y otra cosa. ,SUPERACIÓN
+13,Tello Muñoz Ángel,1,"Bueno, ante todo, quiero",SUPERACIÓN
+14,Tello Muñoz Ángel,2,Mi señora esposa,TRISTEZA
+15,Tello Muñoz Ángel,4,Pero ahora yo,INDIGNACIÓN 
+16,Tello Muñoz Ángel,5,Un día 6 de junio,SORPRESA
+17,Tello Muñoz Ángel,9,"Pero, qué pasa,",ANSIEDAD
+18,Tello Muñoz Ángel,10,En Los Laureles,SUPERACIÓN
+19,Tello Muñoz Ángel,13,Se sorprendió cuando,SORPRESA
+20,Tello Muñoz Ángel,15,"Sendero o el Ejército,",TRISTEZA
+21,Walter Antonio Camino López,1,Yo soy María López,ANSIEDAD
+22,Walter Antonio Camino López,2,"A mí, y a mi hijo menor,",SORPRESA
+23,Walter Antonio Camino López,3,Se lo llevaron cerca al,TRISTEZA
+24,Walter Antonio Camino López,4,No sabíamos qué hacer.,TRISTEZA
+25,Yauri Vicuña Pedro,3,Que es verdad anteriormente,SUPERACIÓN
+26,Yauri Vicuña Pedro,4,Aprovechándose de esta,SUPERACIÓN
+27,Yauri Vicuña Pedro,5,Asimismo los señores,VULNERABILIDAD
+28,Yauri Vicuña Pedro,11,Pero en ese trayecto,SUPERACIÓN
+29,Yauri Vicuña Pedro,15,En ese camino,RABIA
+30,Yauri Vicuña Pedro,17,Pero ellos quemaron,RABIA
+31,Yauri Vicuña Pedro,20,Nosotros teníamos,VULNERABILIDAD
+32,Yauri Vicuña Pedro,21,Pero a su criatura,TRISTEZA
+33,Yauri Vicuña Pedro,25,Algunos de nosotros,SUPERACIÓN
+34,Yauri Vicuña Pedro,26,Por causa de ello,MIEDO
+35,Yauri Vicuña Pedro,29,Si es verdad que,VULNERABILIDAD
+36,Meneses Sotacuro Manuel,5,Era el 19 de,SUPERACIÓN
+37,Meneses Sotacuro Manuel,8,Yo insistía en preguntarles,MIEDO
+38,Meneses Sotacuro Manuel,9,"Al momento que salían,",ANSIEDAD
+39,Meneses Sotacuro Manuel,11,Queremos que la verdad,VULNERABILIDAD
+40,Miguel Enrique Campos Valladolid Chulucanas,1,Muchas gracias. Mi saludo,ANSIEDAD
+41,Miguel Enrique Campos Valladolid Chulucanas,2,"El que habla,",TRISTEZA
+42,Miguel Enrique Campos Valladolid Chulucanas,7,Y venir a encontrar,SUPERACIÓN
+43,Miguel Enrique Campos Valladolid Chulucanas,8,"Se han destruido hogares,",ANSIEDAD
+44,Miguel Enrique Campos Valladolid Chulucanas,9,"Hoy en día,",SUPERACIÓN
+45,Santos Felipe Naves Parimago Huacas Corral,1,"Bien, gracias, agradezco a ",SUPERACIÓN
+46,Santos Felipe Naves Parimago Huacas Corral,9,Y agradezco a APRODEH,SUPERACIÓN
+47,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,2,El obispo de la ,SUPERACIÓN
+48,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,5,El presidente de la,RABIA
+49,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,6,El presidente de la,VULNERABILIDAD
+50,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,8,Y al diputado,SUPERACIÓN
+51,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,10,No solo eso el,VULNERABILIDAD
+52,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,12,Al interior de la iglesia,VULNERABILIDAD
+53,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,13,Agentes pastorales,VULNERABILIDAD
+54,TESTIMONIANTE  RAUL RODRÍGUEZ CHALCO,14,"Es mas, personal",MIEDO
+55,VI 1-TEST.Ediberto Ore,3,Antes que llegue la,SUPERACIÓN
+56,VI 1-TEST.Ediberto Ore,7,Era una suerte de,TRISTEZA
+57,VI 1-TEST.Ediberto Ore,11,Después de tanto,TRISTEZA
+58,VI 1-TEST.Ediberto Ore,12,Pero después se,SUPERACIÓN
+59,VI 1-TEST.Ediberto Ore,14,Ahí es donde,SUPERACIÓN
+60,VI 1-TEST.Ediberto Ore,16,Ahora el retornante,INDIGNACIÓN 
+61,VI 1-TEST.Ediberto Ore,17,Y el campesino,VULNERABILIDAD
+63,VI 1-TEST.Ediberto Ore,31,Se requiere la presencia,VULNERABILIDAD
+64,VI 1-TEST.Ediberto Ore,36,Cuantas marchas,VULNERABILIDAD
+65,Vives Ángeles José Rafael,1,"Muy buenas tardes, gracias",SUPERACIÓN
+66,Vives Ángeles José Rafael,2,Estoy aquí porque,SUPERACIÓN
+67,Vives Ángeles José Rafael,6,Ese fue mi deseo,SUPERACIÓN
+68,Vives Ángeles José Rafael,8,Se creó con una escuela,RABIA
+69,Vives Ángeles José Rafael,10,"También en Jaén,",ANSIEDAD
+70,Vives Ángeles José Rafael,12,"Yo, ahora, les voy",RABIA
+71,Vives Ángeles José Rafael,15,"Ese día, señores,",SORPRESA
+72,Vives Ángeles José Rafael,20,"Entonces, yo contaba",SUPERACIÓN
+73,Vives Ángeles José Rafael,23,"Y, gracias a Dios,",SUPERACIÓN
+74,Vives Ángeles José Rafael,24,Fue así como,SUPERACIÓN
+75,Vives Ángeles José Rafael,25,Fue así que por,SUPERACIÓN
+76,Vives Ángeles José Rafael,28,"Yo espero ahora,",VULNERABILIDAD
+77,Vives Ángeles José Rafael,29,"Hoy, señores, quiero",SUPERACIÓN
+78,Vives Ángeles José Rafael,32,En muchas veces,SUPERACIÓN
+79,Vives Ángeles José Rafael,33,"No estoy arrepentido,",VULNERABILIDAD
+80,Vives Ángeles José Rafael,34,"He solicitado, como digo,",TRISTEZA
+81,Vives Ángeles José Rafael,35,"Estando aquí en Lima,",VULNERABILIDAD
+82,Vives Ángeles José Rafael,37,Hoy también quiero,RABIA
+83,Vives Ángeles José Rafael,38,Es así que a veces,RABIA
+84,Vives Ángeles José Rafael,39,Por eso yo también,ANSIEDAD
+85,Vives Ángeles José Rafael,42,"Hoy, desde aquí, quiero",RABIA
+86,Vives Ángeles José Rafael,43,"Yo te digo una cosa,",TRISTEZA
+87,Vives Ángeles José Rafael,44,De tal manera de,SUPERACIÓN
+88,Vives Ángeles José Rafael,45,"Como autoridades hoy día,",SUPERACIÓN
+89,Vives Ángeles José Rafael,49,"Sabes que, hay una",SUPERACIÓN
+90,Vives Ángeles José Rafael,50,El Señor quiere sanar,SUPERACIÓN

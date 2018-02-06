@@ -1,0 +1,271 @@
+index,esfera,agent,label
+1,Comunidad,Víctima,Profesora
+2,Estado Fuerza,Agresor,Policías
+3,Estado Fuerza,Agresor,PIP
+4,Estado Funcionarios,Agresor,Camuflado
+5,Estado Funcionarios,Agresor,Agente
+6,Comunidad,Víctima,Vecinas
+7,Estado Funcionarios,Agresor,Señor
+8,Estado Funcionarios,Agresor,Oficial 
+9,Comunidad,Víctima,Presos
+10,Comunidad,Víctima,Cadáveres
+11,Comunidad,Víctima,Señoritas
+12,Estado Fuerza,Agresor,Encapuchados
+13,Terroristas,Agresor,Senderistas
+14,Comunidad,Víctima,Agricultor
+15,Estado Funcionarios,Agresor,Compinches
+16,Terroristas,Agresor,Terroristas
+17,Terroristas,Agresor,SL
+18,Comunidad,Víctima,Pasajeros
+19,Comunidad,Víctima,Transeúntes
+20,Comunidad,Víctima,Civiles
+21,Comunidad,Víctima,Criatura
+22,Comunidad,Víctima,Jóvenes
+23,Comunidad,Víctima,Viudas
+24,Iglesia,Amigo,Pastor
+25,Comunidad,Víctima,Vecinos
+26,Comunidad,Víctima,Profesor
+27,Estado Fuerza,Agresor,Patrullero
+28,Comunidad,Víctima,Niños
+29,Iglesia,Amigo,Obispo
+30,Organización No Lucrativa,Externo,OndaAzul
+31,Organización Privada,Externo,Emisora
+32,Organización Política,Externo,IzquierdaUnida
+33,Organización Política,Externo,AccionPopular
+34,Estado Funcionarios,Agresor,Senador
+35,Organización Política,Externo,FENATRACA
+36,Iglesia,Amigo,Curas
+37,Iglesia,Amigo,Monjas
+38,Estado Fuerza,Agresor,Paramilitares
+39,Organización Política,Externo,Comunistas
+40,Organización Política,Externo,Secretaria
+41,Organización Política,Externo,PPC
+42,Organización Política,Externo,Apristas
+43,Comunidad,Víctima,TESIRA
+44,Comunidad,Víctima,Universidad
+45,Comunidad,Víctima,Federación
+46,Comunidad,Víctima,Corresponsales
+47,Organización Política,Externo,CONDECOREC
+48,Comunidad,Víctima,Productores
+49,Estado Funcionarios,Agresor,DefensaCivil
+50,Comunidad,Víctima,Autodefensa
+51,Comunidad,Víctima,Poblados
+52,Organización Política,Externo,HaturaKatariAyllu 
+53,Organización Política,Externo,Frentesamplios
+54,Comunidad,Víctima,Retornantes
+55,Estado Fuerza,Agresor,PAR
+56,Estado Funcionarios,Agresor,FONCODES
+57,Organización Privada,Externo,Periodistas
+58,Estado Fuerza,Agresor,FuerzasArmadas
+59,Comunidad,Víctima,Indios
+60,Organización No Lucrativa,Externo,Internacional
+61,Estado Funcionarios,Agresor,Instituto
+62,Estado Fuerza,Agresor,BoinasVerdes
+63,Estado Fuerza,Agresor,Sinchis
+64,Estado Funcionarios,Agresor,Marina
+65,Estado Fuerza,Agresor,FAP
+66,Comunidad,Víctima,Difunto
+67,Comunidad,Víctima,Comerciantes
+68,Comunidad,Víctima,Teniente
+69,Comunidad,Víctima,afectados
+70,Estado Funcionarios,Agresor,congresistas
+71,Estado Funcionarios,Agresor,diputados
+72,Comunidad,Víctima,pobres
+73,Terroristas,Agresor,ricos
+74,Estado Fuerza,Agresor,policía
+75,Comunidad,Víctima,pueblo
+76,Terroristas,Agresor,sendero
+77,Terroristas,Agresor,tucos
+78,Estado Funcionarios,Agresor,bandos
+79,Comunidad,Víctima,nosotros
+80,Iglesia,Amigo,católicos
+81,Familia ,Víctima,familiares
+82,Comunidad,Víctima,desplazado
+83,Familia ,Víctima,hermanos
+84,Terroristas,Agresor,terrucos
+85,Familia ,Víctima,familia 
+86,Comunidad,Víctima,mujer 
+87,Comunidad,Víctima,varones
+88,Comunidad,Víctima,luchadoras
+89,Estado Funcionarios,Agresor,Congreso
+90,Familia ,Víctima,viudos
+91,Familia ,Víctima,huérfanas
+92,Comunidad,Víctima,requisitoriados
+93,Comunidad,Víctima,reclutados
+94,Familia ,Víctima,familias
+95,Comunidad,Víctima,organización
+96,Estado Funcionarios,Agresor,Estado
+97,Comunidad,Víctima,gente
+98,Comunidad,Víctima,compañero
+99,Comunidad,Víctima,héroes
+100,Familia ,Víctima,hermanas
+101,Comunidad,Víctima,personas
+102,Comunidad,Víctima,desaparecida
+103,Estado Funcionarios,Agresor,instituciones 
+104,Terroristas,Agresor,aliados
+105,Estado Funcionarios,Agresor,Ministerio
+106,Estado Funcionarios,Agresor,Defensoría
+107,Estado Funcionarios,Agresor,emisoras
+108,Familia ,Víctima,hijos
+109,Estado Funcionarios,Agresor,institución
+110,Comunidad,Víctima,pueblos
+111,Estado Funcionarios,Agresor,comisionados
+112,Comunidad,Víctima,barrios
+113,Estado Funcionarios,Agresor,docentes
+114,Comunidad,Víctima,estudiante 
+115,Estado Fuerza,Agresor,policías
+116,Estado Funcionarios,Agresor,FER
+117,Estado Funcionarios,Agresor,profesores
+118,Estado Funcionarios,Agresor,colaboradores
+119,Comunidad,Víctima,autodefensa campesina
+120,Terroristas,Agresor,Sendero Luminoso
+121,Comunidad,Víctima,SUTEP
+122,Comunidad,Víctima,sindicato
+123,Estado Funcionarios,Agresor,pedagógico
+124,Estado Funcionarios,Agresor,magisterio
+125,Estado Funcionarios,Agresor,gobierno central
+126,Estado Fuerza,Agresor,comando
+127,Terroristas,Agresor,subversivos
+128,Iglesia,Amigo,sacerdotes
+129,Estado Fuerza,Agresor,efectivos policiales
+130,Iglesia,Amigo,Iglesia
+131,Estado Funcionarios,Agresor,jueces
+132,Iglesia,Amigo,iglesia adventista
+133,Familia ,Víctima,padres
+134,Estado Funcionarios,Agresor,abogado
+135,Estado Funcionarios,Agresor,municipalidad
+136,Estado Funcionarios,Agresor,alcalde
+137,Comunidad,Víctima,compañeros
+138,Familia ,Víctima,esposa
+139,Estado Funcionarios,Agresor,dirigente sindical
+140,Comunidad,Víctima,testigos
+141,Estado Funcionarios,Agresor,unidades
+142,Comunidad,Víctima,ser humano
+143,Comunidad,Víctima,persona 
+144,Terroristas,Agresor,terrorista 
+145,Comunidad,Víctima,cocalero
+146,Estado Fuerza,Agresor,fuerzas policiales
+147,Estado Funcionarios,Agresor,psicólogos
+148,Estado Funcionarios,Agresor,psiquiatras
+149,Familia ,Víctima,hijo 
+150,Comunidad,Víctima,sociedad
+151,Comunidad,Víctima,público
+152,Comunidad,Víctima,invidentes
+153,Comunidad,Víctima,amputados
+154,Comunidad,Víctima,discapacitados
+155,Familia ,Víctima,esposos
+156,Estado Funcionarios,Agresor,patria
+157,Estado Funcionarios,Agresor,familia policial
+158,Comunidad,Víctima,Perú
+159,Comunidad,Víctima,compatriota
+160,Estado Fuerza,Agresor,patrulla
+161,Estado Fuerza,Agresor,oficial superior
+162,Terroristas,Agresor,subversivos
+163,Comunidad,Víctima,comunidades
+164,Estado Funcionarios,Agresor,Ministerio
+165,Comunidad,Víctima,discapacitado 
+166,Estado Fuerza,Agresor,miembro de la Policía
+167,Comunidad,Víctima,amigo
+168,Estado Fuerza,Agresor,miembros de la Policía
+169,Comunidad,Víctima,caserío
+170,Familia ,Víctima,esposo 
+171,Terroristas,Agresor,delincuente  
+172,Terroristas,Agresor,enemigo
+173,Familia ,Víctima,madre
+174,Familia ,Víctima,papá
+175,Terroristas,Agresor,terruca
+176,Familia ,Víctima,hijas
+177,Estado Fuerza,Agresor,policías
+178,Estado Funcionarios,Agresor,comunicación
+179,Estado Funcionarios,Agresor,televisión
+180,Familia ,Víctima,hija
+181,Comunidad,Víctima,hacendado
+182,Comunidad,Víctima,voluntarios
+183,Familia ,Víctima,mamá
+184,Comunidad,Víctima,declarante
+185,Familia ,Víctima,abuelita
+186,Familia ,Víctima,hemanitas
+187,Terroristas,Agresor,terruco  
+188,Familia ,Víctima,prima
+189,Comunidad,Víctima,abogado
+190,Estado Funcionarios,Agresor,médico
+191,Comunidad,Víctima,embarazada
+192,Estado Funcionarios,Agresor,Derechos
+193,Estado Funcionarios,Agresor,juez
+194,Comunidad,Víctima,muchacho
+195,Familia ,Víctima,hermano
+196,Comunidad,Víctima,campesinos
+197,Familia ,Víctima,padre 
+198,Comunidad,Víctima,ladrones
+199,Estado Funcionarios,Agresor,gobierno
+200,Terroristas,Agresor,subversivo  
+201,Estado Fuerza,Agresor,comisaría
+202,Estado Fuerza,Agresor,patrullas
+203,Comunidad,Víctima,víctima
+204,Comunidad,Víctima,compoblanos
+205,Comunidad,Víctima,población
+206,Estado Funcionarios,Agresor,autoridad
+207,Comunidad,Víctima,paisanos
+208,Estado Fuerza,Agresor,soldados  
+209,Estado Funcionarios,Agresor,Fiscalía
+210,Estado Funcionarios,Agresor,Colina 
+211,Estado Fuerza,Agresor,asesino 
+212,Estado Funcionarios,Agresor,Uniformados
+213,Estado Funcionarios,Agresor,doctor
+214,Comunidad,Víctima,sobreviviente
+215,Estado Fuerza,Agresor,Dincote
+216,Estado Fuerza,Agresor,Delta
+217,Terroristas,Agresor,presos
+218,Estado Funcionarios,Agresor,gobierno 
+219,Estado Funcionarios,Agresor,transición 
+220,Estado Funcionarios,Agresor,criminales
+221,Comunidad,Víctima,huérfanos 
+222,Estado Funcionarios,Agresor,navales 
+223,Comunidad,Víctima,detenidos 
+224,Estado Funcionarios,Agresor,juzgado 
+225,Estado Funcionarios,Agresor,fiscal 
+226,Comunidad,Víctima,muertos
+227,Comunidad,Víctima,mujeres 
+228,Comunidad,Víctima,cinta
+229,Comunidad,Víctima,bebitos
+230,Comunidad,Víctima,ancianos
+231,Comunidad,Víctima,ancianas
+232,Estado Funcionarios,Agresor,presidente
+233,Estado Funcionarios,Agresor,poder judicial 
+234,Estado Fuerza,Agresor,suboficial 
+235,Estado Fuerza,Agresor,oficiales 
+236,Estado Fuerza,Agresor,subalternos
+237,Estado Funcionarios,Agresor,delincuentes
+238,Estado Funcionarios,Agresor,mayor
+239,Estado Funcionarios,Agresor,capitán
+240,Estado Funcionarios,Agresor,dirigente
+241,Estado Fuerza,Agresor,ejército 
+242,Estado Funcionarios,Agresor,subprefecto 
+243,Estado Funcionarios,Agresor,autoridades
+244,Estado Funcionarios,Agresor,coronel 
+245,Iglesia,Amigo,evangélicos 
+246,Comunidad,Víctima,estudiantes
+247,Comunidad,Víctima,comunidad 
+248,Estado Funcionarios,Agresor,guardia civil 
+249,Estado Fuerza,Agresor,militares
+250,Terroristas,Agresor,militantes
+251,Estado Fuerza,Agresor,comandante 
+252,Iglesia,Amigo,dios
+253,Iglesia,Amigo,Iglesia
+254,Terroristas,Agresor,cabecilla
+255,Estado Fuerza,Agresor,PNP
+256,Terroristas,Agresor,concejos
+257,Terroristas,Agresor,senderos
+258,Comunidad,Víctima,desplazados
+259,Estado Fuerza,Agresor,Escruadrón 
+260,Terroristas,Agresor,MRTA
+261,Estado Fuerza,Agresor,seguridad
+262,Estado Funcionarios,Agresor,tribunal
+263,Estado Funcionarios,Agresor,fujimori
+264,Estado Fuerza,Agresor,republicanos
+265,Organización No Lucrativa,Externo,cruz
+266,Estado Funcionarios,Agresor,vigilancia
+267,Estado Funcionarios,Agresor,ronda
+268,Estado Funcionarios,Agresor,rondas
+269,Estado Funcionarios,Agresor,presidente
+270,Estado Funcionarios,Agresor,seteadores

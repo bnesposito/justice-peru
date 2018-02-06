@@ -1,0 +1,52 @@
+index,name,start,number,sentiment
+1,17  Barrios Altos,Gracias. Soy el señor Alfonso Rodas,3,INDIGNACIÓN 
+2,18  Barrios Altos,Fueron 16 personas,4,MIEDO 
+5,19  Barrios Altos,"Aterrorizado, yo",6,MIEDO 
+7,20  Barrios Altos,Y nos... la,7,TRISTEZA 
+12,21  Barrios Altos,El hostigamiento,8,SUPERACIÓN
+13,"Agama Anaya, Yuri ","Ahora, señores comisionados y ",1,TRISTEZA 
+14,"Agama Anaya, Yuri ",Acá dentro hay,3,MIEDO 
+15,13 Rodríguez Pighi Freddy Carlos,En realidad…este…,1,MIEDO 
+16,13 Rodríguez Pighi Freddy Carlos,"Mi hijo fue capturado,",5,SUPERACIÓN
+17,"14 Villanueva Toro, Rubén Aparicio ","Doctor Salomón Lerner Febres, ",9,ANSIEDAD
+18,"14 Villanueva Toro, Rubén Aparicio ",¿Cómo ha de,12,ANSIEDAD
+19,"14 Villanueva Toro, Rubén Aparicio ","Ya, después los",14,ANSIEDAD
+20,"14 Villanueva Toro, Rubén Aparicio ","A 100m. de la base,",16,TRISTEZA 
+21,"14 Villanueva Toro, Rubén Aparicio ","Entonces, yo",19,TRISTEZA 
+22,"14 Villanueva Toro, Rubén Aparicio ","Al día siguiente,",21,SUPERACIÓN
+23,14 Parraga Castillo Jorge,"Muchas gracias, agradezco la magna",2,MIEDO 
+24,14 Parraga Castillo Jorge,"Él, Jorge Parra",3,MIEDO 
+25,14 Parraga Castillo Jorge,¿Dónde queda Atcas?,4,TRISTEZA 
+26,14 Parraga Castillo Jorge,"Ahora, ¿cómo resulta su",5,ABUSADO 
+27,14 Parraga Castillo Jorge,"Lo llevaron al comandante,",6,TRISTEZA 
+28,14 Parraga Castillo Jorge,"Se alejan, a eso",7,VULNERABILIDAD
+29,14 Parraga Castillo Jorge,"Y aquí estoy,",8,SUPERACIÓN
+30,14 Parraga Castillo Jorge,"Actualmente, como",9,INDIGNACIÓN 
+31,14 Parraga Castillo Jorge,"Es así que, como",10,SUPERACIÓN
+32,Ángel Mejía Falconi,"""..El hecho sucedió en la zona",2,TRISTEZA 
+33,3 Leiva Valdivia Odilón ,"Señores comisionados, muy buenos días",2,ABUSADO 
+34,3 Leiva Valdivia Odilón ,Y mi hijo Odilón,3,TRISTEZA 
+35,3 Leiva Valdivia Odilón ,Teniente del Base Militar.,4,SUPERACIÓN
+36,3 Valle Pacheco José ,Buenos días. Soy el ,4,INDIGNACIÓN 
+37,3 Valle Pacheco José ,Total llevaba una,5,TRISTEZA 
+38,7 Vargas Rojas Exaltación ,Quiero agradecer a la Comisión ,1,SUPERACIÓN
+39,7 Vargas Rojas Exaltación ,Voy a relatar los,2,ABUSADO 
+40,7 Vargas Rojas Exaltación ,Sucede ese hecho,7,ABUSADO 
+41,7 Vargas Rojas Exaltación ,"Pasan los meses,",11,SUPERACIÓN
+42,2 Castillo Ccopa Julia ,"Muy bien, doctora",1,MIEDO 
+43,2 Castillo Ccopa Julia ,Esos seguro habrán,2,ABUSADO 
+44,2 Castillo Ccopa Julia ,Como tres horas,3,ABUSADO 
+45,2 Castillo Ccopa Julia ,Ahí vino la Cruz Roja.,6,ABUSADO 
+46,2 Castillo Ccopa Julia ,Yo estuve mal,7,ABUSADO 
+47,2 Castillo Ccopa Julia ,Este Comisión,8,TRISTEZA 
+48,2 Castillo Ccopa Julia ,"Señores de la Comisión,",11,ABUSADO 
+49,"5 Ccasani Llaranga, Aurelio ","Pues señor, yo soy ",1,VULNERABILIDAD
+50,"5 Ccasani Llaranga, Aurelio ","Por eso, después,",3,MIEDO 
+51,"5 Ccasani Llaranga, Aurelio ",Conjuntamente como,5,ABUSADO 
+52,"5 Ccasani Llaranga, Aurelio ","Cuando regresábamos,",10,TRISTEZA 
+53,"5 Ccasani Llaranga, Aurelio ",Y perdí todo.,11,MIEDO 
+54,"5 Ccasani Llaranga, Aurelio ","Y por eso,",12,ANSIEDAD
+55,"5 Ccasani Llaranga, Aurelio ","Justamente en esa noche,",13,MIEDO 
+56,"5 Ccasani Llaranga, Aurelio ",Entonces ese señor,16,TRISTEZA 
+57,"5 Ccasani Llaranga, Aurelio ","Entonces, hoy",27,TRISTEZA 
+58,"5 Ccasani Llaranga, Aurelio ","Por eso pido justicia,",28,SUPERACIÓN

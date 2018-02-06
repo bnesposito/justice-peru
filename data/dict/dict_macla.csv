@@ -1,0 +1,115 @@
+index,name,start,number,sentiment
+1,IV 1 - TEST.Isabel Soasnabar Huaroc,Muchas gracias quiero,1,INDIGNACIÓN 
+2,IV 1 - TEST.Isabel Soasnabar Huaroc,Porque nosotros antes,2,VULNERABILIDAD
+3,IV 1 - TEST.Isabel Soasnabar Huaroc,Nosotros no sabíamos,3,VULNERABILIDAD
+4,IV 1 - TEST.Isabel Soasnabar Huaroc,Empezamos a salir,4,ABUSADO 
+5,IV 1 - TEST.Isabel Soasnabar Huaroc,Cuanto cuesta nuestra,5,ABUSADO 
+6,IV 1 - TEST.Isabel Soasnabar Huaroc,A los sacavuelteros,6,DIGNIDAD
+7,IV 1 - TEST.Isabel Soasnabar Huaroc,Y entonces ahí,7,INJUSTICIA 
+8,IV 1 - TEST.Isabel Soasnabar Huaroc,Porque nos costaba,8,ABUSADO 
+9,IV 1 - TEST.Isabel Soasnabar Huaroc,Nosotros no teníamos,9,TRISTEZA 
+10,IV 1 - TEST.Isabel Soasnabar Huaroc,Toda esta injusticia,10,INJUSTICIA 
+11,IV 1 - TEST.Isabel Soasnabar Huaroc,No ha sido,11,VULNERABILIDAD
+12,IV 1 - TEST.Isabel Soasnabar Huaroc,Después perdíamos a,12,ABUSADO 
+13,IV 1 - TEST.Isabel Soasnabar Huaroc,Ha sido muy doloroso,13,TRISTEZA 
+14,IV 1 - TEST.Isabel Soasnabar Huaroc,"Entonces, ahí llegando",14,VULNERABILIDAD
+15,IV 1 - TEST.Isabel Soasnabar Huaroc,Los que hemos,15,ABUSADO 
+16,IV 1 - TEST.Isabel Soasnabar Huaroc,"Entonces, cuando nosotros",16,MIEDO
+17,IV 1 - TEST.Isabel Soasnabar Huaroc,Teníamos que hacer,17,ABUSADO 
+18,IV 1 - TEST.Isabel Soasnabar Huaroc,En una de ,18,DIGNIDAD
+19,IV 1 - TEST.Isabel Soasnabar Huaroc,Dentro de los,19,ABUSADO 
+20,IV 1 - TEST.Isabel Soasnabar Huaroc,Entonces nosotros no,20,ABUSADO 
+21,IV 1 - TEST.Isabel Soasnabar Huaroc,La gente se,23,ABUSADO 
+22,IV 1 - TEST.Isabel Soasnabar Huaroc,Igual el hijo,24,ABUSADO 
+23,IV 1 - TEST.Isabel Soasnabar Huaroc,Y también como,25,SUPERACION
+24,IV 1 - TEST.Isabel Soasnabar Huaroc,Tenemos hermanos que,26,ABUSADO 
+25,IV 1 - TEST.Isabel Soasnabar Huaroc,Yo les pido ,27,SUPERACION
+26,IV 1 - TEST.Isabel Soasnabar Huaroc,Yo me siento,29,TRISTEZA 
+27,IV 1 - TEST.Isabel Soasnabar Huaroc,Solamente le han,30,INDIGNACIÓN 
+28,IV 1 - TEST.Isabel Soasnabar Huaroc,Si de repente ,31,SUPERACION
+29,IV 1 - TEST.Isabel Soasnabar Huaroc,Y por eso,33,SUPERACION
+30,IV 1 - TEST.Isabel Soasnabar Huaroc,Y todo por,34,VULNERABILIDAD
+31,IV 1 - TEST.Isabel Soasnabar Huaroc,Encima a las,37,VULNERABILIDAD
+32,IV 1 - TEST.Isabel Soasnabar Huaroc,Tenemos que organizarnos,38,SUPERACION
+33,IV 1 - TEST.Isabel Soasnabar Huaroc,No nos olvidemos,39,ABUSADO 
+34,IV 1 - TEST.Isabel Soasnabar Huaroc,Ahora lo que,40,ANSIEDAD
+35,IV 1 - TEST.Isabel Soasnabar Huaroc,No solo quiero,41,ANSIEDAD
+36,IV 1 - TEST.Isabel Soasnabar Huaroc,Yo no se,42,MIEDO
+37,IV 1 - TEST.Isabel Soasnabar Huaroc,Por favor hay,43,DIGNIDAD
+38,"Choque Ramos, Percy",El día de hoy,2,INDIGNACIÓN 
+39,"Choque Ramos, Percy",Porque nosotros manteníamos,4,INDIGNACIÓN 
+40,"Choque Ramos, Percy",Entonces dentro del,6,SUPERACION
+41,"Choque Ramos, Percy",Y había un,7,ABUSADO 
+42,"Choque Ramos, Percy",Y nuestro grupo,8,VULNERABILIDAD
+43,"Choque Ramos, Percy",Tal es así,10,ABUSADO 
+44,"Choque Ramos, Percy",Sin embargo nosotros,11,SUPERACION
+45,"Choque Ramos, Percy",Si no que,13,DIGNIDAD
+46,"Choque Ramos, Percy",Efectivamente fue cuando,14,INDIGNACIÓN 
+47,"Choque Ramos, Percy",Efectivamente la narración,17,SUPERACION
+48,Guillermo Máximo Balladares Vega,El año 1991,1,ABUSADO 
+49,Guillermo Máximo Balladares Vega,En esos momentos,3,ABUSADO 
+50,Guillermo Máximo Balladares Vega,Una semana después,4,INDIGNACIÓN 
+51,Guillermo Máximo Balladares Vega,Durante su permanencia,5,ABUSADO 
+52,Guillermo Máximo Balladares Vega,El señor Guillermo,8,INDIGNACIÓN 
+53,Hilario Ayuque Zúñiga,La esposa de,3,ABUSADO 
+54,Hilario Ayuque Zúñiga,Ese mismo día,4,INDIGNACIÓN 
+55,"Huaraca Cule, Víctor Cule",Qué le puedo,7,ABUSADO 
+56,"Huaraca Cule, Víctor Cule",Al momento de ,8,ABUSADO 
+57,"Huaraca Cule, Víctor Cule",Cuando dinamitan al,9,ABUSADO 
+58,"Huaraca Cule, Víctor Cule",Se retiran estos,10,DIGNIDAD
+59,"Huaraca Cule, Víctor Cule","Retrocedo, salgo y",11,ABUSADO 
+60,"Huaraca Cule, Víctor Cule",Opté por buscar,12,ABUSADO 
+61,"Huaraca Cule, Víctor Cule",Legué a Lima,14,TRISTEZA 
+62,"Huaraca Cule, Víctor Cule",Tenía un hijo,15,SUPERACION
+63,"Huaraca Cule, Víctor Cule",Pasan los años,16,SUPERACION
+64,"Huaraca Cule, Víctor Cule","Gracias, también, que",17,SUPERACION
+65,"Huaraca Cule, Víctor Cule","Dentro de esto,",20,TRISTEZA 
+66,"Huaraca Cule, Víctor Cule",Mi única …,21,TRISTEZA 
+67,"Gamarra Luna, Héctor","Gracias. Bueno, señores",10,ABUSADO 
+68,"Gamarra Luna, Héctor",A partir de,11,SUPERACION
+69,"Gamarra Luna, Héctor",Pienso yo de,12,SUPERACION
+70,"Gamarra Luna, Héctor",Yo he tenido,13,ABUSADO 
+71,"Gamarra Luna, Héctor",Cada día que,14,SUPERACION
+72,Julia Ramírez Orozco Piura,"Bueno, ante todo",7,INDIGNACIÓN 
+73,Julia Ramírez Orozco Piura,Yo soy una,8,ABUSADO 
+74,Julia Ramírez Orozco Piura,"Entonces, fui detenida",9,ABUSADO 
+75,Julia Ramírez Orozco Piura,Estuve en Sullana,10,ABUSADO 
+76,Julia Ramírez Orozco Piura,Ya no tenemos,11,TRISTEZA 
+77,Julia Ramírez Orozco Piura,Yo me enteré,12,INDIGNACIÓN 
+78,Julia Ramírez Orozco Piura,Hoy por lo,13,ABUSADO 
+79,Julia Ramírez Orozco Piura,"Pero, yo creo",14,INDIGNACIÓN 
+80,Julia Ramírez Orozco Piura,Cuando me dieron,15,SUPERACION
+81,Julia Ramírez Orozco Piura,"De nuevo, les",16,TRISTEZA 
+82,Julia Ramírez Orozco Piura,"También quiero, aquí",17,INDIGNACIÓN 
+83,Julia Ramírez Orozco Piura,"Entonces, yo les",18,INDIGNACIÓN 
+84,Julia Ramírez Orozco Piura,Disculpen si mi,19,TRISTEZA 
+85,"Gamboa García, Georgina",Yo soy Giorgina,6,ABUSADO 
+86,"Gamboa García, Georgina",Bueno en mi,7,ABUSADO 
+87,"Gamboa García, Georgina",Hemos… como voluntarios,8,INDIGNACIÓN 
+88,"Gamboa García, Georgina",Después de pasando,9,INDIGNACIÓN 
+89,"Gamboa García, Georgina",Después de…,11,ABUSADO 
+90,"Gamboa García, Georgina","Me golpeaba, me",12,ABUSADO 
+91,"Gamboa García, Georgina",De ahí hasta …,13,ABUSADO 
+92,"Gamboa García, Georgina",De mi prima,14,ABUSADO 
+93,"Gamboa García, Georgina",Yo estaba loca,16,TRISTEZA 
+94,"Gamboa García, Georgina",Comencé a denunciar,17,VULNERABILIDAD
+95,"Gamboa García, Georgina",¿Qué me ha,20,VULNERABILIDAD
+96,"Gamboa García, Georgina",Vuelta comencé trabajar,22,ABUSADO 
+97,"Gamboa García, Georgina",Ahora que oportunidad,24,INDIGNACIÓN 
+98,"Gamboa García, Georgina",Hay otras personas,25,DIGNIDAD
+99,"Gamboa García, Georgina",Agradecería toda esa,27,TRISTEZA 
+100,Jessica Chávez Ruiz y otros,"Mi esposo, sabiendo",9,ABUSADO 
+101,Jessica Chávez Ruiz y otros,Después de haber,10,ABUSADO 
+102,Jessica Chávez Ruiz y otros,Mientras que estos,11,INDIGNACIÓN 
+103,Jessica Chávez Ruiz y otros,Pero. Yo quisiera,12,INDIGNACIÓN 
+104,Jessica Chávez Ruiz y otros,"Quisiera, señores de",13,DIGNIDAD
+105,Jessica Chávez Ruiz y otros,Me fui a,20,INDIGNACIÓN 
+106,Jessica Chávez Ruiz y otros,"Nosotros, a la",21,INDIGNACIÓN 
+107,Jessica Chávez Ruiz y otros,"Finalmente, quiero terminar",23,DIGNIDAD
+108,Hermelinda Tello Molina,Pongo mi testimonio,7,ABUSADO 
+109,Hermelinda Tello Molina,"Entonces, al tercer",8,ABUSADO 
+110,Hermelinda Tello Molina,En seguida en,11,ABUSADO 
+111,Hermelinda Tello Molina,Entonces nosotros inocentemente,12,ABUSADO 
+112,Hermelinda Tello Molina,Consciente era uno,13,ABUSADO 
+113,Hermelinda Tello Molina,"En Santa Rosa, ",14,ABUSADO 
+114,Hermelinda Tello Molina,"Y señores, pido",16,DIGNIDAD
