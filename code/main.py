@@ -46,7 +46,7 @@ def main():
     filter_docs = [work_data.input_sentiment(doc, dict1) for doc in filter_docs]
     filter_docs = [work_data.input_sentiment(doc, dict2) for doc in filter_docs]
     filter_docs = [work_data.input_sentiment(doc, dict3) for doc in filter_docs]
-    clean_docs = [work_data.input_agent(doc, dict_agents) for doc in clean_docs]
+    #clean_docs = [work_data.input_agent(doc, dict_agents) for doc in clean_docs]
 
     tagged = not_tagged = 0
     for i in filter_docs:
